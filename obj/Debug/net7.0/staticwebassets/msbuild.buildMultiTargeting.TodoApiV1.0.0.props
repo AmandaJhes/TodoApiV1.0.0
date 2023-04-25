@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/TodoApiV1.0.0.props" />
+</Project>
